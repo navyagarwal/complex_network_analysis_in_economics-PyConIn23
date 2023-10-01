@@ -1,1 +1,1 @@
-# complex_network_analysis_in_economics-PyConIn23
+# Complex Network Analysis in Economics - PyCon India 2023
